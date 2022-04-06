@@ -12,7 +12,7 @@ Index.js
 
 
 Cars.js
-- En JSON-objekt som innehåller objekt (bilar) med properties: ID, Make, Model
+- En JSON-array som innehåller objekt (bilar) med properties: ID, Make, Model
 
 Users.js
-- En JSON-objekt som innehåller objekt (users) med properties: ID, Name, Description
+- En JSON-array som innehåller objekt (users) med properties: ID, Name, Description
